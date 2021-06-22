@@ -1,0 +1,102 @@
+body {
+	text-align: center;
+	background: linear-gradient(#d2f6f7 0%, #e5d2f7 100%);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-style: italic;
+	color: #f005ad;
+	font-size: 35px;
+	position: 100px;
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: 500;
+}
+
+#I1 {
+	width: 450px;
+	length: 350px;
+	border-radius: 100%;
+}
+
+#main {
+	background: linear-gradient(#d2f6f7 0%, #e5d2f7 100%);
+}
+
+#bio {
+	padding: 20px;
+	font-size: 25px;
+	text-align: center;
+	font-style: italic;
+	background-color: azure;
+}
+
+.menu {
+	font-family: fantasy;
+	list-style: none;
+	top: 10px;
+	right: 9px;
+	position: absolute;
+	z-index: 10;
+
+
+}
+
+.item {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding: 20px;
+	font-style: italic;
+	font-size: 25px;
+	float: left;
+}
+
+.Item:hover {
+	background-color: azure;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+Proj {
+	font-size: 25px;
+	text-align: center;
+	font-style:italic;
+	background-color:floralwhite;
+}
+
+h4 {
+	font-family: monospace;
+	font-size: 25px;
+}
+
+Con {
+	font-size: 25px;
+	text-align: center;
+	font-style: italic;
+	background-color:cornsilk;
+}
+
+h5 {
+	font-family: fantasy;
+	font-size: 23px;
+	color: forestgreen;
+	font-weight: 900;
+}
+
+p1 {
+	font-family: sans-serif;
+	font-size: 45px;
+	color: cadetblue;
+}
+.line{
+	width: 3px;
+	color: black;
+}
